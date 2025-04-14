@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Modulo Dispositivos",
+    "version": "1.0.0",
+    "description": "Gerenciamento de dispositivos IoT",
+    "download_url": "https://github.com/seuusuario/modulos-app/releases/download/v1.0.0/modulo_dispositivos.zip",
+    "dependencies": []
+  }
+]
