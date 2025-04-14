@@ -1,0 +1,11 @@
+{
+  "last_update": "2024-01-01",
+  "modules": [
+    {
+      "name": "Core System",
+      "version": "2.0.0",
+      "description": "Atualização de segurança crítica",
+      "download_url": "https://github.com/seuusuario/modulos-app/releases/download/v2.0.0/core_update.zip"
+    }
+  ]
+}
